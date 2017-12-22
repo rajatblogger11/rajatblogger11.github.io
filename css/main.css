@@ -138,6 +138,10 @@ p{
     color: #AA2200;
 }
 
+.github-icon:hover {
+    color: #000;
+}
+
 .img-profile {
     overflow: hidden;
     -moz-transition: all 0.3s;
