@@ -210,3 +210,7 @@ hr {
 .list-inline-item {
     font-size: 3.5rem;
 }
+
+@media screen and (min-width: 575px){
+            .rwd-break { display: none; }
+        }
